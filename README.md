@@ -1,4 +1,4 @@
-<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/fd2d7332-fbcc-437b-90a2-f9a4dc1f36fe" /># Presentation
+# Presentation
 
 - 💻 I'm a computer engineering graduate
 - 💃 From Spain
@@ -114,22 +114,26 @@ title="Redis">
 
 #### Web Development
 
-<img src="img\wb\react.png"
+<img src="img\wd\react.png"
 width="32"
 height="32"
 title="React">
-<img src="img\wb\html.png"
+<img src="img\wd\html.png"
 width="32"
 height="32"
 title="HTML">
-<img src="img\wb\css.png"
+<img src="img\wd\css.png"
 width="32"
 height="32"
 title="CSS">
+<img src="img\pl\js.png"
+width="32"
+height="32"
+title="JavaScript">
 
 #### Mobile Development
 
-<img src="img\mb\androidstudio.png"
+<img src="img\md\androidstudio.png"
 width="32"
 height="32"
 title="Android Studio">
