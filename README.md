@@ -1,4 +1,4 @@
-# Presentation
+<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/fd2d7332-fbcc-437b-90a2-f9a4dc1f36fe" /># Presentation
 
 - 💻 I'm a computer engineering graduate
 - 💃 From Spain
@@ -6,25 +6,183 @@
 
 ## Tech I have worked with
 
-### OS
+#### OS
 
-### Programming Languages
+<img src="img\os\windows.png"
+width="32"
+height="32"
+title="Windows">
+<img src="img\os\linux.png"
+width="32"
+height="32"
+title="GNU/Linux">
 
-### IDE
+#### Programming Languages
 
-### Documentation
+<img src="img\pl\python.png"
+width="32"
+height="32"
+title="Python">
+<img src="img\pl\java.png"
+width="32"
+height="32"
+title="Java">
+<img src="img\pl\php.png"
+width="32"
+height="32"
+title="PHP">
+<img src="img\pl\c.png"
+width="32"
+height="32"
+title="C">
+<img src="img\pl\js.png"
+width="32"
+height="32"
+title="JavaScript">
+<img src="img\pl\ada.png"
+width="32"
+height="32"
+title="Ada">
+<img src="img\pl\asm.png"
+width="32"
+height="32"
+title="Assembly">
 
-### Version Control
+#### IDE
 
-### Databases
+<img src="img\ide\vscode.png"
+width="32"
+height="32"
+title="Visual Studio Code">
+<img src="img\ide\nvim.png"
+width="32"
+height="32"
+title="NeoVim">
+<img src="img\ide\nano.png"
+width="32"
+height="32"
+title="Nano">
 
-### Web Development
+#### Documentation
 
-### Mobile Development
+<img src="img\doc\tex.png"
+width="32"
+height="32"
+title="TeX">
+<img src="img\doc\md.png"
+width="32"
+height="32"
+title="Markdown">
 
-### System Administrator
+#### Version Control
 
-### Cybersecurity
+<img src="img\vc\git.png"
+width="32"
+height="32"
+title="Git">
+<img src="img\vc\github.png"
+width="32"
+height="32"
+title="GitHub">
+<img src="img\vc\gitlab.png"
+width="32"
+height="32"
+title="GitLab">
+
+#### Databases
+
+<img src="img\db\mysql.png"
+width="32"
+height="32"
+title="MySQL">
+<img src="img\db\postgre.png"
+width="32"
+height="32"
+title="PostgreSQL">
+<img src="img\db\sqlite.png"
+width="32"
+height="32"
+title="SQLite">
+<img src="img\db\mongodb.png"
+width="32"
+height="32"
+title="MongoDB">
+<img src="img\db\redis.png"
+width="32"
+height="32"
+title="Redis">
+
+#### Web Development
+
+<img src="img\wb\react.png"
+width="32"
+height="32"
+title="React">
+<img src="img\wb\html.png"
+width="32"
+height="32"
+title="HTML">
+<img src="img\wb\css.png"
+width="32"
+height="32"
+title="CSS">
+
+#### Mobile Development
+
+<img src="img\mb\androidstudio.png"
+width="32"
+height="32"
+title="Android Studio">
+<img src="img\pl\java.png"
+width="32"
+height="32"
+title="Java">
+
+#### System Administrator
+
+<img src="img\sys\virtualbox.png"
+width="32"
+height="32"
+title="VirtualBox">
+<img src="img\sys\vmware.png"
+width="32"
+height="32"
+title="VMware">
+<img src="img\sys\docker.png"
+width="32"
+height="32"
+title="Docker">
+<img src="img\sys\podman.png"
+width="32"
+height="32"
+title="Podman">
+<img src="img\sys\kubernetes.png"
+width="32"
+height="32"
+title="Kubernetes">
+
+#### Cybersecurity
+
+<img src="img\cs\burpsuit.png"
+width="32"
+height="32"
+title="Burpsuit">
+<img src="img\cs\nmap.png"
+width="32"
+height="32"
+title="NMAP">
+<img src="img\cs\wireshark.png"
+width="32"
+height="32"
+title="Wireshark">
+<img src="img\cs\zap.png"
+width="32"
+height="32"
+title="ZAP">
+<img src="img\cs\sqlmap.png"
+width="32"
+height="32"
+title="sqlmap">
 
 ## 📂 Repos
 
