@@ -1,16 +1,47 @@
-## Hi there 👋
+# bilbo999
 
-<!--
-**bilbo999/bilbo999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 I'm a computer engineering graduate
+- 💃 From Spain
+- 🔒 Keen on cybersecurity
 
-Here are some ideas to get you started:
+## Tech I have worked with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### OS
+
+### Programming Languages
+
+### IDE
+
+### Documentation
+
+### Version Control
+
+### Databases
+
+### Web Development
+
+### Mobile Development
+
+### System Administrator
+
+### Cybersecurity
+
+## 📂 Repos
+
+<details>
+  <summary> University </summary>
+
+<details>
+  <summary> Second Grade </summary>
+  Pokemon Chirla: https://github.com/bilbo999/pokemonchirla
+</details>
+
+<details>
+  <summary>Third Grade</summary>
+  Juegos Legales: https://github.com/IbaiS94/JuegosLegales
+</details>
+<details>
+  <summary>Fourth Grade</summary>
+  Loan Predictor: https://github.com/bilbo999/asLoanPredictor  
+
+</details>
